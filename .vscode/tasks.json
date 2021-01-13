@@ -1,0 +1,13 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "shell",
+			"id": "shell,gulp tests,",
+			"problemMatcher": [
+				"$gulp-tsc"
+			],
+			"label": "tsc-dev: pre-compile-all"
+		}
+	]
+}
