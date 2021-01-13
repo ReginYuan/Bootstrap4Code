@@ -8,7 +8,7 @@
 
 参考网页：
 
-https://getbootstrap.com/docs/4.0/utilities/sizing/
+<https://getbootstrap.com/docs/4.0/utilities/sizing/>
 
 ## 实战演习
 
@@ -32,5 +32,5 @@ https://getbootstrap.com/docs/4.0/utilities/sizing/
 
 ## 课程文件
 
-https://github.com/ReginYuan/Bootstrap4Code
+<https://github.com/ReginYuan/Bootstrap4Code>
 

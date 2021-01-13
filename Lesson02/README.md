@@ -9,15 +9,15 @@ Bootstrap4初次使用
 ### Bootstrap4支持技术
 
 1. jQuery  
-  https://jquery.com/
+  <https://jquery.com/>
 2. popper.js  
-  https://popper.js.org/
+  <https://popper.js.org/>
 
 ### 从模板开始(Starter template)
 
 进入Bootstrap官网，从文档页中提取出页面的初始模板。
 
-http://getbootstrap.com/docs/4.0/getting-started/introduction/
+<http://getbootstrap.com/docs/4.0/getting-started/introduction/>
 
 ## 实战演习1(CDN)
 
@@ -50,7 +50,7 @@ http://getbootstrap.com/docs/4.0/getting-started/introduction/
 
 下载Bootstrap4发行包，然后如下初始化模板页面。
 
-http://getbootstrap.com/docs/4.0/getting-started/download/
+<http://getbootstrap.com/docs/4.0/getting-started/download/>
 
 ~~~html
 <html lang="zh-cmn-Hans">
@@ -78,5 +78,5 @@ http://getbootstrap.com/docs/4.0/getting-started/download/
 
 ## 课程文件
 
-https://github.com/ReginYuan/Bootstrap4Code
+<https://github.com/ReginYuan/Bootstrap4Code>
 

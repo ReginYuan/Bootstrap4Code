@@ -9,7 +9,7 @@
 
 参考网页：
 
-http://getbootstrap.com/docs/4.0/utilities/colors/
+<http://getbootstrap.com/docs/4.0/utilities/colors/>
 
 ## 实战演习
 
@@ -24,4 +24,4 @@ http://getbootstrap.com/docs/4.0/utilities/colors/
 
 ## 课程文件
 
-https://github.com/ReginYuan/Bootstrap4Code
+<https://github.com/ReginYuan/Bootstrap4Code>

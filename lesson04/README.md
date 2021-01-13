@@ -9,7 +9,7 @@
 
 参考网页：
 
-https://getbootstrap.com/docs/4.0/utilities/text/
+<https://getbootstrap.com/docs/4.0/utilities/text/>
 
 ## 实战演习
 
@@ -27,5 +27,5 @@ https://getbootstrap.com/docs/4.0/utilities/text/
 
 ## 课程文件
 
-https://github.com/ReginYuan/Bootstrap4Code
+<https://github.com/ReginYuan/Bootstrap4Code>
 
